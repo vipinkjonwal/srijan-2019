@@ -21,14 +21,13 @@ Each of the systems that are connected to the Onion network is identified as a n
 
 A white paper on the Dark Web which monitored over 30,000 top-level sites or .onion (Hidden Services) was released by ZeroDayLab’s partner Intelliagg. 
 Key findings from the research include:
-•    At the time of assessment, only 46% of the 30,000 hidden services analyzed were active.
-•    76% of the sites were in English, unsurprisingly Chinese and German as second and third languages.
+ * At the time of assessment, only 46% of the 30,000 hidden services analyzed were active.
+ * 76% of the sites were in English, unsurprisingly Chinese and German as second and third languages.
 
-•    48% of the sites were classified as illegal.
+ * 48% of the sites were classified as illegal.
 
-•    With the manual classification of over 1,000 sites, it was deemed that 68% of the content was illegal according to US and UK law.
+ * With the manual classification of over 1,000 sites, it was deemed that 68% of the content was illegal according to US and UK law.
 
-•    The top classifications of hidden marketplaces were file sharing (29%), leaked data (28%), and financial fraud (12%). Unexpectedly, hacking only covered up 3% of the sites interrogated.
+ * The top classifications of hidden marketplaces were file sharing (29%), leaked data (28%), and financial fraud (12%). Unexpectedly, hacking only covered up 3% of the sites interrogated.
 
-•    Interestingly, 39% of sites analyzed were unlinked, meaning they were extremely difficult to find.
-
+ * Interestingly, 39% of sites analyzed were unlinked, meaning they were extremely difficult to find.
