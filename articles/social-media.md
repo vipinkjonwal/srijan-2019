@@ -4,7 +4,7 @@ Question | Answer |
 --- | --- |
 Writer | Sunidhi Sharma - MCA I year
 Editor | Shruti Katyal
-Status |	Reviewed once. A second opinion required.
+Status |	Reviewed once. A second opinion required for title.
 Plagiarism |	None.  100% unique. [Report Link](./plag-reports/plag-social-media-v1.pdf)
 Added |  Reformed sentences. Grammatical mistakes rectified.
 Content |	Privacy concern - revealing facts - conclusion
